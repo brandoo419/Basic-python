@@ -1,0 +1,1 @@
+print("This code was written on the day6-practice branch")
